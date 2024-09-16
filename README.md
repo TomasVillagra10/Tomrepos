@@ -88,10 +88,12 @@ en subproblemas y de combinar sus respuestas.
 
 
 He trabajado en la resolución de la tarea a partir de las siguientes paginas:
-*https://intelequia.com/es/blog/post/qu%C3%A9-es-la-programaci%C3%B3n-orientada-a-objetos
-*https://platzi.com/blog/paradigmas-programacion/
-*https://madi.nekomath.com/P4/TeoremaMaestro.html
-*https://ellibrodepython.com/tiempo-ejecucion-python
-*https://elmundodelosdatos.com/todo-sobre-big-o-notation-y-su-impacto-en-algoritmos/
-*https://www.freecodecamp.org/espanol/news/explicacion-de-la-notacion-big-o-con-ejemplo/
-https://www.campusmvp.es/recursos/post/Rendimiento-de-algoritmos-y-notacion-Big-O.aspx
+\begin{itemize}
+     \item https://intelequia.com/es/blog/post/qu%C3%A9-es-la-programaci%C3%B3n-orientada-a-objetos
+     \item https://platzi.com/blog/paradigmas-programacion/
+     \item https://madi.nekomath.com/P4/TeoremaMaestro.html
+     \item https://ellibrodepython.com/tiempo-ejecucion-python
+     \item https://elmundodelosdatos.com/todo-sobre-big-o-notation-y-su-impacto-en-algoritmos/
+     \item https://www.freecodecamp.org/espanol/news/explicacion-de-la-notacion-big-o-con-ejemplo/
+     \item https://www.campusmvp.es/recursos/post/Rendimiento-de-algoritmos-y-notacion-Big-O.aspx
+\end{itemize}
