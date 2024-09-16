@@ -89,6 +89,7 @@ en subproblemas y de combinar sus respuestas.
 
 He trabajado en la resolución de la tarea a partir de las siguientes paginas:
 
+* https://www.youtube.com/watch?v=SkOuPjtm7D0&ab_channel=OCILabs
 * https://intelequia.com/es/blog/post/qu%C3%A9-es-la-programaci%C3%B3n-orientada-a-objetos
 * https://platzi.com/blog/paradigmas-programacion/
 * https://madi.nekomath.com/P4/TeoremaMaestro.html
